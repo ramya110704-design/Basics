@@ -10,6 +10,7 @@ public class Agecheck {
         else{
             System.out.println("You are not yet an adult.");
         }
+        sc.close();
     }
     
 }
