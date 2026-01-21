@@ -16,7 +16,7 @@ public class SortNames {
         for(String name:names){
             System.out.println(name);
         }
-
+        sc.close();
     }
     
 }
