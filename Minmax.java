@@ -17,6 +17,7 @@ public class Minmax {
         }
         System.out.println("Smallest ="+ min);
         System.out.println("Largest ="+ max);
+        sc.close();
     }
     
 }
