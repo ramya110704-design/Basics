@@ -13,6 +13,7 @@ public class Numcheck {
         else{
             System.out.println("Zero");
         }
+        sc.close();
     }
          
 }
