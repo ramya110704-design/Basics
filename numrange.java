@@ -13,6 +13,7 @@ public class numrange {
         else{
             System.out.println("Invalid numbers");
         }
+        sc.close();
     }
     
 }
