@@ -10,6 +10,7 @@ public class ContainJava {
         else{
             System.out.println("The String does not contain Java");
         }
+        sc.close();
     }
     
 }
