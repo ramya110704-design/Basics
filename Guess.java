@@ -21,6 +21,7 @@ public class Guess {
                 System.out.println("Correct Attempts: "+count);
             }
         } while(guess != num);
+        sc.close();
     }
     
 }
