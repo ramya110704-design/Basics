@@ -20,6 +20,7 @@ public class GuessNum {
                 System.out.println("Correct Attempts: "+ count);
             }
         } while(guess != num);
+        sc.close();
     }
     
 }
